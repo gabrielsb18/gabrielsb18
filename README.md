@@ -29,5 +29,10 @@
 </div>
 
 ##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.gif" />
+  <img alt="github-snake" src="https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.gif" />
+</picture>
 
-![Snake gif](https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.gif)
+
