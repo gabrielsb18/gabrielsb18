@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1200&color=0069FF&center=true&width=1000&lines=Welcome+%3A);My+name+is+Gabriel+Barbosa;I'm+a+3D+Artist+and+Backend+Developer;I+am+19+years+old;I+am+from+Brazil+%F0%9F%98%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1200&color=0069FF&center=true&width=1000&height=150&lines=Welcome+%3A);My+name+is+Gabriel+Barbosa;I'm+a+3D+Artist+and+Backend+Developer;I+am+19+years+old;I+am+from+Brazil+" alt="Typing SVG" /></a>
 
 ##
 
