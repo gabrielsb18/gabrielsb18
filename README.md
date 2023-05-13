@@ -32,5 +32,4 @@
 
 ##
 
-![Snake_gif]
-(https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.gif)
+![Snake gif](https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.gif)
