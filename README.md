@@ -5,8 +5,6 @@
 
 
 <div align="center">
-<a href="https://github.com/gabrielsb18/github-readme-stats">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api?username=gabrielsb18&show_icons=true&count_private=true?&theme=algolia"/></a>
  <a href ="https://github.com/gabrielsb18/">
   <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsb18&theme=algolia&layout=compact"/></a>
 </div>
@@ -23,7 +21,6 @@
   <img align="center" alt="Gab_java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gab_spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Gab_mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Logo_gab" height="150" style="border-radius:50px;" src="https://github.com/gabrielsb18/gabrielsb18/blob/a60341c2bf828627dc7b793b49d2d250e458eb85/Logo_gab.jpg">
 </div>
 
 
