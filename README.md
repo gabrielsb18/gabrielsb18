@@ -41,8 +41,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
+![snake gif](https://github.com/gabrielsb18/gabrielsb18/blob/output/github-contribution-grid-snake.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C1FA&height=150&section=footer"/>
