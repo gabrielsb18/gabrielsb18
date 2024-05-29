@@ -19,8 +19,10 @@
   <img align="center" alt="Gab_boot" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gab_js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gab_mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gab_mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="Gab_mysql" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
   <img  align="center" alt="Gab_mysql" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+ <img  align="center" alt="Gab_mysql" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
+  <img  align="center" alt="Gab_mysql" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
   <img align="center" alt="Gab_java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gab_spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
           
